@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+img{
+    width: 90% !important;
+}
+span{
+    color: yellow;
+}
+a:hover{
+    color: black !important;
+    font-size: larger;
+}
+.btnn{
+    height: 50px;
+    width: 50%;
+    border-radius: 20px;
+    background-color: blue;
+    border:blue 2px solid;
+    color: white;
+    font-weight: bold;
+}
+.btnn:hover{
+    background-color: white;
+    color: blue;
+}
+
+
+/* extention */
+/* extention */
+/* extention */
+
+.ext-contain{
+
+}
+#inpt-el{
+    width: 200px;
+}
+#input-btn{
+    background-color: #5f9341;
+    color: #ffffff;
+    border: none;
+    font-weight: 600;
+    float: left;
+    padding: 3px 15px;
+}
